@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Oi 👋, Eu sou o Luiz Henrique!
 
 🚀 **Estudante de Engenharia de Software | Python | PowerBI | MySql**  
 🇧🇷 Brazil
