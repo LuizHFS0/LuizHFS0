@@ -46,10 +46,7 @@ Estou construindo aplicações desktop para empresas, de gerenciamento de comér
 
 ## 📊 Status GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizHFS0&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHFS0&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizHFS0&show_icons=true&theme=dark)
 
 ---
 
