@@ -10,14 +10,14 @@ Estou construindo aplicações desktop para empresas, de gerenciamento de comér
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="[https://github.com/LuizLFS0](https://github.com/LuizHFS0)">
+  <a href="https://github.com/LuizHFS0">
     <img src="https://img.shields.io/badge/GitHub-LuizHFS0-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/henrique.lhfs">
     <img src="https://img.shields.io/badge/Instagram-@henrique.lhfs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="www.linkedin.com/in/luiz01henrique2008">
-    <img src="https://img.shields.io/badge/Linkedin-LuizHFS0-FF0000?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linkedin-LuizHFS0-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
 </p>
 
