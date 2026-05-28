@@ -46,7 +46,6 @@ Estou construindo aplicações desktop para empresas, de gerenciamento de comér
 
 ## 📊 Status GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizHFS0&show_icons=true)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizHFS0&theme=github-dark)
 ---
 
